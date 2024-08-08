@@ -2,4 +2,10 @@ body {background-color: rgba(248, 176, 43, 0.959);
 
 }
 
-p{color: azure;}
+p{color: rgb(21, 255, 0);
+
+}
+
+.bacalhau{color: blueviolet ;
+font-style: italic;
+}
