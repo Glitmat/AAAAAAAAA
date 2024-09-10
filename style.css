@@ -8,11 +8,8 @@ p{color: rgb(255, 0, 0);
 
 .bacalhau{color: blueviolet ;
 font-style: italic;
-}
-
-.Aderno{ 
-padding: 15px;
+ padding: 15px;
 font-size: 50px;
-
+border-bottom: 1px rgb(rgb(34, 1, 1), green, blue);
 }
 
