@@ -1,13 +1,16 @@
 body {background-color: rgba(255, 255, 255, 0.959);
+    margin: 5px;
 }
 
 p{color: rgb(255, 0, 0);
+font-style: oblique;
 
 }
 
 .bacalhau { color: blueviolet ;
 font-style: italic;
-padding: 15px;
+padding: 10px;
+text-decoration: overline;
 }
 
 
@@ -19,4 +22,7 @@ h2 {
 
 .Azazel { color: aqua;
 border-bottom: 4px color(srgb rgb(255, 0, 0) rgb(31, 185, 212) blue);
+}
+ol {text-align: center;
+
 }
